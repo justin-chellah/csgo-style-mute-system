@@ -1,0 +1,26 @@
+"Games"
+{
+	"left4dead"
+	{
+		"Offsets"
+		{
+			"CMultiplayRules::ClientDisconnected"
+			{
+				"windows"	"57"
+				"linux"		"58"
+			}
+		}
+	}
+
+	"left4dead2"
+	{
+		"Offsets"
+		{
+			"CMultiplayRules::ClientDisconnected"
+			{
+				"windows"	"57"
+				"linux"		"58"
+			}
+		}
+	}
+}
